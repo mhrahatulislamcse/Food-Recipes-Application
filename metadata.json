@@ -1,0 +1,6 @@
+{
+  "name": "Foodie! Recipe App",
+  "description": "Explore, cook, and create mouth-watering recipes with interactive ingredients, step-by-step guides, and custom recipe creation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
